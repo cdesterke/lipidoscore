@@ -3,7 +3,7 @@ R package to compute lipidoscore by query Pubmed on a gene list
 
 - author: Christophe Desterke
 
-- Description
+- Description:
     R package which allow to perform lipidic interpretation of gene list by query Pubme
 
 - Usage
